@@ -12,7 +12,7 @@ import com.example.myproyect.actividades.clases.MostrarMensaje;
 import com.example.myproyect.actividades.modelos.DAO_Usuarios;
 
 public class RecuperarPassword_Activity extends AppCompatActivity {
-    Button btnSalir, btnConfirmar;
+    Button btnSalir, btnConfirmar, btnnuevo;
     EditText pass1, pass2;
     //HOLA
     @Override

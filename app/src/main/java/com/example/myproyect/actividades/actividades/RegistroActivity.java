@@ -27,7 +27,7 @@ import java.util.Calendar;
 
 public class RegistroActivity extends AppCompatActivity implements View.OnClickListener {
     EditText txtNombre, txtApellido, txtCorreo, txtClave, txtFechaNac, txtDni, txtCel;
-    Button btnContinuar, btnRegresar;
+    Button btnContinuar, btnRegresar, btnprueba;
     CheckBox chkTerminos;
     TextView lblIniciar, lblTerminos;
 
