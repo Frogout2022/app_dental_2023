@@ -12,7 +12,7 @@ import com.example.myproyect.actividades.clases.InterfaceMenu;
 import com.example.myproyect.actividades.entidades.Usuario;
 
 public class BienvenidoActivity extends AppCompatActivity implements InterfaceMenu {
-
+//comenario 1 - marcelo
     TextView lblSaludo;
     Button btnSalida;
     TextView lblCancha1, lblCancha2, lblCancha3, lblCancha4;
