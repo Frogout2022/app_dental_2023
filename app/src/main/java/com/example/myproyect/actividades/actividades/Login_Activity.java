@@ -28,6 +28,7 @@ import java.util.List;
 
 public class Login_Activity extends AppCompatActivity {
 //COMENTARIO
+    //COMENTARIO 2
     EditText txtCorreo, txtClave, txtHola;
     CheckBox checkRecordar;
     TextView lblRegistrate, lblRecuperarPass;
